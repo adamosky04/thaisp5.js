@@ -1,0 +1,1 @@
+# thaisp5.js
